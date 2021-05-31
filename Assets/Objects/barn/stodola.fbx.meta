@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: b2009f0de127afc4dbfc22dac103eb22
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 3844433269212527745
+    second: IMeshh Bulb Holder.001|Cylinder.011Action
+  - first:
+      74: 8352284181675440354
+    second: IMeshh Bulb Holder.001|Cylinder.011Action.001
+  - first:
+      74: 2714121751327879190
+    second: IMeshh Bulb Holder.001|Cylinder.011Action.002
+  - first:
+      74: -5148683746598323346
+    second: IMeshh Bulb Holder.001|EmptyAction
+  - first:
+      74: 2668483657378053513
+    second: IMeshh Bulb Holder.001|IMeshh Bulb HolderAction
+  - first:
+      74: 4946431787181847990
+    second: IMeshh Bulb Holder.001|IMeshh Bulb HolderAction.001
+  - first:
+      74: -4040095390979972560
+    second: IMeshh Bulb Holder.001|PointAction.002
+  - first:
+      74: -5411231090353098344
+    second: IMeshh Bulb Holder.001|PointAction.004
+  - first:
+      74: -288735355413233167
+    second: IMeshh Bulb Holder.001|PointAction.005
+  - first:
+      74: 7424159115133270454
+    second: IMeshh Bulb Holder.001|Shader NodetreeAction.000
+  - first:
+      74: 6819391850570357060
+    second: IMeshh Bulb Holder.001|Shader NodetreeAction.001
+  - first:
+      74: -534719172168866556
+    second: IMeshh Bulb Holder.001|Shader NodetreeAction.002
+  - first:
+      74: 3791834389491449776
+    second: IMeshh Bulb Holder.001|Shader NodetreeAction.003
+  - first:
+      74: 8857008400641731552
+    second: IMeshh Bulb Holder.001|Shader NodetreeAction.004
+  - first:
+      74: 3735453905849754643
+    second: IMeshh Bulb Holder.001|Shader NodetreeAction.005
+  - first:
+      74: 4792898389678073907
+    second: IMeshh Bulb Holder.001|Shader NodetreeAction.006
+  - first:
+      74: -9204090687979472721
+    second: IMeshh Bulb Holder.001|Shader NodetreeAction.007
+  - first:
+      74: 1676174964501809931
+    second: IMeshh Bulb Holder.001|SHLB002Action
+  - first:
+      74: -5891066521273616072
+    second: IMeshh Bulb Holder.001|SHLB002Action.002
+  - first:
+      74: -6916170115477802239
+    second: IMeshh Bulb Holder.001|SHLB002Action.004
+  - first:
+      74: 7010545507146050335
+    second: IMeshh Bulb Holder.001|SHLB002Action.005
+  - first:
+      74: -1533859606566190481
+    second: SHLB002.001|Cylinder.011Action
+  - first:
+      74: -3132466407560650130
+    second: SHLB002.001|Cylinder.011Action.001
+  - first:
+      74: -4645078286392860729
+    second: SHLB002.001|Cylinder.011Action.002
+  - first:
+      74: -6388602613270826881
+    second: SHLB002.001|EmptyAction
+  - first:
+      74: 7288584122976011441
+    second: SHLB002.001|IMeshh Bulb HolderAction
+  - first:
+      74: -4574902755243808543
+    second: SHLB002.001|IMeshh Bulb HolderAction.001
+  - first:
+      74: 822062593591187470
+    second: SHLB002.001|PointAction.002
+  - first:
+      74: 4794296208523614989
+    second: SHLB002.001|PointAction.004
+  - first:
+      74: 5918687601407308136
+    second: SHLB002.001|PointAction.005
+  - first:
+      74: -9202240679342622466
+    second: SHLB002.001|Shader NodetreeAction.000
+  - first:
+      74: -3145843113724467997
+    second: SHLB002.001|Shader NodetreeAction.001
+  - first:
+      74: 7501643492894362172
+    second: SHLB002.001|Shader NodetreeAction.002
+  - first:
+      74: 4500505907566717690
+    second: SHLB002.001|Shader NodetreeAction.003
+  - first:
+      74: -2974816296420944432
+    second: SHLB002.001|Shader NodetreeAction.004
+  - first:
+      74: 3624490489511534955
+    second: SHLB002.001|Shader NodetreeAction.005
+  - first:
+      74: -8005048867407778529
+    second: SHLB002.001|Shader NodetreeAction.006
+  - first:
+      74: -650210927369168938
+    second: SHLB002.001|Shader NodetreeAction.007
+  - first:
+      74: -2569078167031227792
+    second: SHLB002.001|SHLB002Action
+  - first:
+      74: -5041187975513319291
+    second: SHLB002.001|SHLB002Action.002
+  - first:
+      74: -7384611071025499407
+    second: SHLB002.001|SHLB002Action.004
+  - first:
+      74: 9084755377780425451
+    second: SHLB002.001|SHLB002Action.005
+  - first:
+      74: 7247159518217243188
+    second: Cylinder.011|Cylinder.011Action
+  - first:
+      74: 2551403997360967996
+    second: Cylinder.011|Cylinder.011Action.001
+  - first:
+      74: 6035184515826103470
+    second: Cylinder.011|Cylinder.011Action.002
+  - first:
+      74: -2817326517818766034
+    second: Cylinder.011|EmptyAction
+  - first:
+      74: -5021291129459423736
+    second: Cylinder.011|IMeshh Bulb HolderAction
+  - first:
+      74: 3178447381137477445
+    second: Cylinder.011|IMeshh Bulb HolderAction.001
+  - first:
+      74: 2046412203090502958
+    second: Cylinder.011|PointAction.002
+  - first:
+      74: 8085387683671106317
+    second: Cylinder.011|PointAction.004
+  - first:
+      74: -607488127793244385
+    second: Cylinder.011|PointAction.005
+  - first:
+      74: 6690769891228553280
+    second: Cylinder.011|Shader NodetreeAction.000
+  - first:
+      74: 6223099162141860701
+    second: Cylinder.011|Shader NodetreeAction.001
+  - first:
+      74: 274865644917107242
+    second: Cylinder.011|Shader NodetreeAction.002
+  - first:
+      74: 1159741282416744045
+    second: Cylinder.011|Shader NodetreeAction.003
+  - first:
+      74: 2096522353988932037
+    second: Cylinder.011|Shader NodetreeAction.004
+  - first:
+      74: -8493608230879161495
+    second: Cylinder.011|Shader NodetreeAction.005
+  - first:
+      74: 747655999365145109
+    second: Cylinder.011|Shader NodetreeAction.006
+  - first:
+      74: 1245855987409212824
+    second: Cylinder.011|Shader NodetreeAction.007
+  - first:
+      74: 8101713020772501428
+    second: Cylinder.011|SHLB002Action
+  - first:
+      74: 1130126748161608978
+    second: Cylinder.011|SHLB002Action.002
+  - first:
+      74: -9107953774571770603
+    second: Cylinder.011|SHLB002Action.004
+  - first:
+      74: -3122346956622738620
+    second: Cylinder.011|SHLB002Action.005
+  - first:
+      74: 7903225925470671705
+    second: SHLB002.002|Cylinder.011Action
+  - first:
+      74: 5805321241472427912
+    second: SHLB002.002|Cylinder.011Action.001
+  - first:
+      74: -1027178513359791349
+    second: SHLB002.002|Cylinder.011Action.002
+  - first:
+      74: -7308187452926061205
+    second: SHLB002.002|EmptyAction
+  - first:
+      74: -998878063706018716
+    second: SHLB002.002|IMeshh Bulb HolderAction
+  - first:
+      74: 3641556863504858264
+    second: SHLB002.002|IMeshh Bulb HolderAction.001
+  - first:
+      74: 1569378523134394695
+    second: SHLB002.002|PointAction.002
+  - first:
+      74: -2953098069487955572
+    second: SHLB002.002|PointAction.004
+  - first:
+      74: 2560722547163541832
+    second: SHLB002.002|PointAction.005
+  - first:
+      74: 4934853965044098565
+    second: SHLB002.002|Shader NodetreeAction.000
+  - first:
+      74: -8053872589726907205
+    second: SHLB002.002|Shader NodetreeAction.001
+  - first:
+      74: 6556433519873248149
+    second: SHLB002.002|Shader NodetreeAction.002
+  - first:
+      74: -300731012464704771
+    second: SHLB002.002|Shader NodetreeAction.003
+  - first:
+      74: 6741095845664359817
+    second: SHLB002.002|Shader NodetreeAction.004
+  - first:
+      74: -6787534644542478581
+    second: SHLB002.002|Shader NodetreeAction.005
+  - first:
+      74: -3119547084210186917
+    second: SHLB002.002|Shader NodetreeAction.006
+  - first:
+      74: 6978370161979460990
+    second: SHLB002.002|Shader NodetreeAction.007
+  - first:
+      74: 2690587353719546438
+    second: SHLB002.002|SHLB002Action
+  - first:
+      74: -4999284751342341708
+    second: SHLB002.002|SHLB002Action.002
+  - first:
+      74: -6391434761413340017
+    second: SHLB002.002|SHLB002Action.004
+  - first:
+      74: 6812805478586602800
+    second: SHLB002.002|SHLB002Action.005
+  - first:
+      74: -9171771419764208444
+    second: Cylinder.012|Cylinder.011Action
+  - first:
+      74: 2770324187589808589
+    second: Cylinder.012|Cylinder.011Action.001
+  - first:
+      74: -61409396849442587
+    second: Cylinder.012|Cylinder.011Action.002
+  - first:
+      74: 6228387279878969398
+    second: Cylinder.012|EmptyAction
+  - first:
+      74: 8455537029168092134
+    second: Cylinder.012|IMeshh Bulb HolderAction
+  - first:
+      74: -8143699784534607884
+    second: Cylinder.012|IMeshh Bulb HolderAction.001
+  - first:
+      74: 754636804203048137
+    second: Cylinder.012|PointAction.002
+  - first:
+      74: -8999199986329774191
+    second: Cylinder.012|PointAction.004
+  - first:
+      74: 7279547930764984775
+    second: Cylinder.012|PointAction.005
+  - first:
+      74: 9121622445553413148
+    second: Cylinder.012|Shader NodetreeAction.000
+  - first:
+      74: -4550530634608589283
+    second: Cylinder.012|Shader NodetreeAction.001
+  - first:
+      74: -7952869737823093077
+    second: Cylinder.012|Shader NodetreeAction.002
+  - first:
+      74: -1599209579689606797
+    second: Cylinder.012|Shader NodetreeAction.003
+  - first:
+      74: 5857197716320785930
+    second: Cylinder.012|Shader NodetreeAction.004
+  - first:
+      74: 4766398847526041190
+    second: Cylinder.012|Shader NodetreeAction.005
+  - first:
+      74: 7815232170604582920
+    second: Cylinder.012|Shader NodetreeAction.006
+  - first:
+      74: -5139711082316558837
+    second: Cylinder.012|Shader NodetreeAction.007
+  - first:
+      74: 3114524530472317026
+    second: Cylinder.012|SHLB002Action
+  - first:
+      74: -6283363634156964330
+    second: Cylinder.012|SHLB002Action.002
+  - first:
+      74: -5832486127407771656
+    second: Cylinder.012|SHLB002Action.004
+  - first:
+      74: -697832211231265864
+    second: Cylinder.012|SHLB002Action.005
+  - first:
+      74: 717277825603123398
+    second: SHLB002.003|Cylinder.011Action
+  - first:
+      74: 6498502484618999903
+    second: SHLB002.003|Cylinder.011Action.001
+  - first:
+      74: -329118466523903019
+    second: SHLB002.003|Cylinder.011Action.002
+  - first:
+      74: 2183429560725577659
+    second: SHLB002.003|EmptyAction
+  - first:
+      74: 2185527334464385971
+    second: SHLB002.003|IMeshh Bulb HolderAction
+  - first:
+      74: 4003474903684915232
+    second: SHLB002.003|IMeshh Bulb HolderAction.001
+  - first:
+      74: -5826909708755803722
+    second: SHLB002.003|PointAction.002
+  - first:
+      74: -6687707526666729219
+    second: SHLB002.003|PointAction.004
+  - first:
+      74: -2956908639812240630
+    second: SHLB002.003|PointAction.005
+  - first:
+      74: -8848822918205682061
+    second: SHLB002.003|Shader NodetreeAction.000
+  - first:
+      74: -5932474566220084962
+    second: SHLB002.003|Shader NodetreeAction.001
+  - first:
+      74: -2759329800818446035
+    second: SHLB002.003|Shader NodetreeAction.002
+  - first:
+      74: -1824815306014828529
+    second: SHLB002.003|Shader NodetreeAction.003
+  - first:
+      74: 8535043829101606989
+    second: SHLB002.003|Shader NodetreeAction.004
+  - first:
+      74: -306349847625700026
+    second: SHLB002.003|Shader NodetreeAction.005
+  - first:
+      74: 8891026399313307952
+    second: SHLB002.003|Shader NodetreeAction.006
+  - first:
+      74: -7788962920170232290
+    second: SHLB002.003|Shader NodetreeAction.007
+  - first:
+      74: 8724959645315299011
+    second: SHLB002.003|SHLB002Action
+  - first:
+      74: 7696508127662125313
+    second: SHLB002.003|SHLB002Action.002
+  - first:
+      74: 6454311741775778863
+    second: SHLB002.003|SHLB002Action.004
+  - first:
+      74: 2860845013663930048
+    second: SHLB002.003|SHLB002Action.005
+  - first:
+      74: 5432247540669515121
+    second: Cylinder.013|Cylinder.011Action
+  - first:
+      74: -2002299599253381973
+    second: Cylinder.013|Cylinder.011Action.001
+  - first:
+      74: 2058120851234754583
+    second: Cylinder.013|Cylinder.011Action.002
+  - first:
+      74: -2131169771160754325
+    second: Cylinder.013|EmptyAction
+  - first:
+      74: 6911304406377192703
+    second: Cylinder.013|IMeshh Bulb HolderAction
+  - first:
+      74: 3256920433373165614
+    second: Cylinder.013|IMeshh Bulb HolderAction.001
+  - first:
+      74: -4823316422884307066
+    second: Cylinder.013|PointAction.002
+  - first:
+      74: 8200702953838965312
+    second: Cylinder.013|PointAction.004
+  - first:
+      74: 6027624077614725483
+    second: Cylinder.013|PointAction.005
+  - first:
+      74: -1148927533586023472
+    second: Cylinder.013|Shader NodetreeAction.000
+  - first:
+      74: -2149866628541448756
+    second: Cylinder.013|Shader NodetreeAction.001
+  - first:
+      74: -622432475373551582
+    second: Cylinder.013|Shader NodetreeAction.002
+  - first:
+      74: 2430892697573668195
+    second: Cylinder.013|Shader NodetreeAction.003
+  - first:
+      74: -5849650526910484959
+    second: Cylinder.013|Shader NodetreeAction.004
+  - first:
+      74: -769334876047912388
+    second: Cylinder.013|Shader NodetreeAction.005
+  - first:
+      74: 4183556184034955933
+    second: Cylinder.013|Shader NodetreeAction.006
+  - first:
+      74: -6593651637963545167
+    second: Cylinder.013|Shader NodetreeAction.007
+  - first:
+      74: 5053785403258773235
+    second: Cylinder.013|SHLB002Action
+  - first:
+      74: -5580993379182832794
+    second: Cylinder.013|SHLB002Action.002
+  - first:
+      74: -5761647521645053202
+    second: Cylinder.013|SHLB002Action.004
+  - first:
+      74: 6359270093107833620
+    second: Cylinder.013|SHLB002Action.005
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

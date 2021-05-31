@@ -1,13 +1,14 @@
 using System;
 using UnityEngine;
 
-namespace UnityStandardAssets.Utility
+namespace Impostors.Example
 {
-    public class AutoMoveAndRotate : MonoBehaviour
+    [AddComponentMenu("")]
+    internal class AutoMoveAndRotate : MonoBehaviour
     {
-        public Vector3andSpace moveUnitsPerSecond;
-        public Vector3andSpace rotateDegreesPerSecond;
-        public bool ignoreTimescale;
+        public Vector3andSpace moveUnitsPerSecond = default;
+        public Vector3andSpace rotateDegreesPerSecond = default;
+        public bool ignoreTimescale = default;
         private float m_LastRealTime;
 
 
@@ -34,7 +35,7 @@ namespace UnityStandardAssets.Utility
         [Serializable]
         public class Vector3andSpace
         {
-            public Vector3 value;
+            public Vector3 value = default;
             public Space space = Space.Self;
         }
     }
